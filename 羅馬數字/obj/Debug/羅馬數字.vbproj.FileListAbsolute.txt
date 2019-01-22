@@ -1,0 +1,10 @@
+H:\羅馬數字\羅馬數字\bin\Debug\羅馬數字.exe.config
+H:\羅馬數字\羅馬數字\bin\Debug\羅馬數字.exe
+H:\羅馬數字\羅馬數字\bin\Debug\羅馬數字.pdb
+H:\羅馬數字\羅馬數字\bin\Debug\羅馬數字.xml
+H:\羅馬數字\羅馬數字\obj\Debug\羅馬數字.Form1.resources
+H:\羅馬數字\羅馬數字\obj\Debug\羅馬數字.Resources.resources
+H:\羅馬數字\羅馬數字\obj\Debug\羅馬數字.vbproj.GenerateResource.Cache
+H:\羅馬數字\羅馬數字\obj\Debug\羅馬數字.exe
+H:\羅馬數字\羅馬數字\obj\Debug\羅馬數字.xml
+H:\羅馬數字\羅馬數字\obj\Debug\羅馬數字.pdb
